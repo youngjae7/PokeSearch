@@ -1,6 +1,7 @@
 # PokeSearch
 
- Simple Pokemon search tool that uses the PokeAPI to retreive information about desired Pokemon.
- Currently, only the Name, Sprite, Height, and Weight are retrieved from the API. Other attributes will be worked on later.
+ Simple Pokemon search tool that uses the PokeAPI to retreive basic information about desired Pokemon.
+ Made using HTML, CSS, and Javascript.
+
  
  [PokeSearch](http://codepen.io/Youngjae_/full/WGrqjQ/)
