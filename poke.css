@@ -1,0 +1,84 @@
+div {
+  border-radius: 20px;
+}
+header {
+	z-index: 1;
+	position: relative;
+	width: 100%;
+	height: 60px;
+	background-color: teal;
+  margin-top: -5px;
+  margin-left: -10px;
+  border-radius: 20px;
+  
+}
+
+h1 {
+ 
+	float:left;
+	margin-left: 5px;
+	padding-top: 15px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+  
+
+}
+
+.left {
+	position: relative;
+	float: left;
+	width: 10%;
+	height: 1000px;
+	background-color: #B9D7D9;
+  padding: 0px;
+  margin-left: -8px;
+  
+}
+.left p {
+  font-family: Garamond, serif;
+  font-size: 25px;
+ 
+}
+.right {
+	position: relative;
+	float: left;
+	width: 90%;
+	height: 1000px;
+	background-color: #343d46;
+	margin-bottom: 10px;
+  color:white;
+}
+
+.inputBox{
+  text-align:center;
+  margin-top: 5px;
+  
+  font-family: Verdana, sans-serif;
+  padding-bottom: 5px;
+}
+
+.pokemonStats{
+  
+  height: 400px;
+  width: 300px;
+  margin:auto;
+  
+}
+
+.out{
+  font-size: 25px;
+  
+  text-transform: capitalize;
+  margin: auto;
+  text-align:center;
+}
+
+.right p {
+  text-align: center;
+}
+
+.image {
+  text-align:center;
+}
+
